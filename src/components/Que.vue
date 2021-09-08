@@ -9,4 +9,7 @@ export default {
         que:String
     },
 }
+
+
 </script>
+

@@ -11,6 +11,7 @@ export default {
     ans: String,
   },
   // data(){
+    
 
   // },
   methods: {
